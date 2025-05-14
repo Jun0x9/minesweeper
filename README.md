@@ -2,9 +2,9 @@
 classic minesweeper written in C using raylib
 
 ## controls 
-Right Click -- flag the cell
-Left  Click -- reveal the cell 
-ESCAPE - exit 
+Right Click -- flag the cell  
+Left  Click -- reveal the cell   
+ESCAPE - exit  
 
 # INSTALLATION  
 ## Linux  
