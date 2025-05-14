@@ -12,3 +12,5 @@ if the raylib libarary is already installed on path,
 ```
 gcc -o main main.c -lraylib -lm && ./main
 ```
+# GAMEPLAY 
+![](gameplay.gif)
