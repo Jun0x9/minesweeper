@@ -95,7 +95,7 @@ int main( void ) {
 							}
 						}
 						if( IsMouseButtonPressed( MOUSE_BUTTON_RIGHT)){ 
-							if( cell->state & HIDDEN ){
+							if( cell->state & HIDDEN || cell->state & FLAGGED){
 								cell->state ^= FLAGGED ; 						
 								cell->state ^= HIDDEN; 
 							}
